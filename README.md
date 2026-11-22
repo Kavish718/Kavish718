@@ -24,14 +24,6 @@ I enjoy building intelligent systems, experimenting with generative models, and 
 
 ---
 
-### 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavish718&layout=compact&custom_title=Most%20Used%20Languages&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
-</p>
-
----
-
 ### 🌐 Connect With Me
 
 <p align="center">
